@@ -1,0 +1,8 @@
+{C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/mailbox_producer and consumer/Producer_consumer.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/mailbox_producer and consumer/Producer_consumer.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Producer_consumer
+
+Top level modules:
+	Producer_consumer
+
+} {} {}}

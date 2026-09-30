@@ -1,0 +1,53 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 1
+T_opt
+!s110 1790500688
+V<cNn6DC1mbCDOU<9>KMX`1
+04 6 4 work class2 fast 0
+=1-f430b9544e86-6ab8df50-168-4374
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vclass2
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1790500682
+!i10b 1
+!s100 Mcc`icDGm[kPYP=CZOJ6>3
+ICJz70ggfl:iGJeF]@F24i0
+S1
+dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2
+w1790500675
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/class2.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/class2.sv
+!i122 10
+L0 1 110
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1790500682.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/class2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/class2.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

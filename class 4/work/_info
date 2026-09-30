@@ -1,0 +1,157 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3
+T_opt
+!s110 1790670083
+VMNc<DBFz[PMIE[8;NLLk^0
+Z2 04 7 4 work mult_tb fast 0
+=1-f430b9544e86-6abb7503-132-4c18
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1790670308
+VIE<nYgG5f4A[4Fo4bOUl21
+R2
+=1-f430b9544e86-6abb75e3-2d9-25c8
+R3
+o-quiet -auto_acc_if_foreign -work work
+R4
+n@_opt1
+R5
+vmem_interface
+Z6 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z7 !s110 1790670304
+!i10b 1
+!s100 P3jKN:`:iOeBMC<S7B49e2
+I;oNYif^ohCB]0lk^YNfgH1
+S1
+Z8 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4
+w1790668773
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv
+!i122 39
+Z9 L0 1 13
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1790670303.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vmult_tb
+R6
+R7
+!i10b 1
+!s100 @akIiVBEcm;I>bkbYhf=m3
+IkeE>4Wab<EioCZUbaRg<g1
+S1
+R8
+w1790670286
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv
+!i122 40
+L0 1 19
+R10
+R11
+r1
+!s85 0
+31
+Z14 !s108 1790670304.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv|
+!i113 0
+R13
+R4
+vmultiplier2
+R6
+R7
+!i10b 1
+!s100 J0i:VABV3L3]OVJLk_K`;0
+IdO^e=003=Mh:[j0K5ILZ;0
+S1
+R8
+w1790670194
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/multiplier2.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/multiplier2.sv
+!i122 41
+L0 1 10
+R10
+R11
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/multiplier2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/multiplier2.sv|
+!i113 0
+R13
+R4
+vreg_n
+R6
+Z15 !s110 1790670303
+!i10b 1
+!s100 P=RJoQczWf57ZM8RMc`W=0
+IUH1B?l^Z><T?L[=HeOc[h3
+S1
+R8
+w1790667061
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv
+!i122 37
+R9
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv|
+!i113 0
+R13
+R4
+vtb_reg_n
+R6
+R15
+!i10b 1
+!s100 8V<a]B]?Z4gF?c23[<2cR3
+Ino3;eVi`KadQ;l1z]`ChR2
+S1
+R8
+w1790667929
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv
+!i122 38
+L0 1 16
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv|
+!i113 0
+R13
+R4

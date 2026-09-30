@@ -1,0 +1,36 @@
+{C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module casting_lab4
+
+Top level modules:
+	casting_lab4
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Casting_lab1
+
+Top level modules:
+	Casting_lab1
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Casting_lab2
+
+Top level modules:
+	Casting_lab2
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module casting_lab6
+
+Top level modules:
+	casting_lab6
+
+} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Casting_lab3
+
+Top level modules:
+	Casting_lab3
+
+} {} {}}

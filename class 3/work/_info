@@ -1,0 +1,180 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 2/mailbox_producer and consumer
+T_opt
+!s110 1790584923
+VN>LWB]fHlXRnO[9F;[5Bh3
+Z2 04 12 4 work casting_lab4 fast 0
+=1-f430b9544e86-6aba285a-3b8-39bc
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1790585195
+V?Zii>:I8jcZ0`hh]=@D873
+R2
+=1-f430b9544e86-6aba296b-20-31f4
+R3
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1790586233
+VI?<eBoaBN5V?LE<c?K22l1
+04 12 4 work casting_lab6 fast 0
+=1-f430b9544e86-6aba2d78-3e7-6ac
+R3
+R6
+R4
+n@_opt2
+R5
+vCasting_lab1
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1790586196
+!i10b 1
+!s100 FSz;?NmLinjaL5zlfW9DH0
+I<^TJMM_2524hd[=G01AA=3
+S1
+Z9 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3
+w1790580833
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv
+!i122 46
+L0 1 16
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1790586196.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab1.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@casting_lab1
+vCasting_lab2
+R7
+R8
+!i10b 1
+!s100 Ji[9@XY;OeTL7SB=`aZME0
+Ice<U[c<zLI3]]4@dU@0F?3
+S1
+R9
+w1790581998
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv
+!i122 47
+L0 1 23
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab2.sv|
+!i113 0
+R13
+R4
+n@casting_lab2
+vCasting_lab3
+R7
+R8
+!i10b 1
+!s100 Zhi1hWiI;99S2LghdeMl20
+I6L5EhfNO?4hIRkk[hjY6z0
+S1
+R9
+w1790584026
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv
+!i122 48
+L0 1 25
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/Casting_lab3.sv|
+!i113 0
+R13
+R4
+n@casting_lab3
+vcasting_lab4
+R7
+R8
+!i10b 1
+!s100 kF]=4JH5XhD;1Q0nKc]ON2
+IWfmg`O8ZGnTX9iPnb[YZh3
+S1
+R9
+w1790585183
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv
+!i122 49
+L0 1 33
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab4.sv|
+!i113 0
+R13
+R4
+vcasting_lab6
+R7
+!s110 1790586197
+!i10b 1
+!s100 FSZTJkTh_b7GNI<;n_<g:0
+IULAoBzHOBACM>H=n^RZ<82
+S1
+R9
+w1790586183
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv
+!i122 50
+L0 1 17
+R10
+R11
+r1
+!s85 0
+31
+!s108 1790586197.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 3/casting_lab6.sv|
+!i113 0
+R13
+R4
