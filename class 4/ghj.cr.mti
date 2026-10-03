@@ -1,9 +1,9 @@
-{C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv}
+{C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module mult_tb
+-- Compiling module reg_n
 
 Top level modules:
-	mult_tb
+	reg_n
 
 } {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mem_interface.sv}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -12,12 +12,12 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	mem_interface
 
-} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/reg_n.sv}
+} {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/mult_tb.sv}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module reg_n
+-- Compiling module mult_tb
 
 Top level modules:
-	reg_n
+	mult_tb
 
 } {} {}} {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4/tb_reg_n.sv}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021

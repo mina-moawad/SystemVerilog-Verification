@@ -26,3 +26,4 @@ class summations ();
 	constraint c_sum { (a+b+c) < 100;
 		
 	}
+endclass

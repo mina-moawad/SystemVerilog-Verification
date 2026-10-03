@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 4
+Xconstraint_1_2_sv_unit
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1791013554
+V:Z6GkkY803G4Ko=KB`kIY1
+r1
+!s85 0
+!i10b 1
+!s100 ]gYNohR5T7W>Ja[<N0mYh1
+I:Z6GkkY803G4Ko=KB`kIY1
+!i103 1
+S1
+dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5
+w1791013544
+8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5/constraint_1_2.sv
+FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5/constraint_1_2.sv
+!i122 1
+L0 1 0
+OL;L;2021.1;73
+31
+!s108 1791013554.000000
+!s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5/constraint_1_2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5/constraint_1_2.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
