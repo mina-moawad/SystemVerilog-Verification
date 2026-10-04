@@ -1,0 +1,75 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5
+T_opt
+!s110 1791105468
+V8j6kTP2g^[zlSDd<X2G:L2
+04 2 4 work tb fast 0
+=1-f430b9544e86-6ac219bb-24a-2c34
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+Xlab_class_6_sv_unit
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1791105448
+VFDICB@kkV^mf3GffCJVNk3
+r1
+!s85 0
+!i10b 1
+!s100 X_^1;PJ5b[=f=@?fb7aO=1
+IFDICB@kkV^mf3GffCJVNk3
+!i103 1
+S1
+Z4 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6
+Z5 w1791105437
+Z6 8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
+Z7 FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
+!i122 7
+L0 1 0
+Z8 OL;L;2021.1;73
+31
+Z9 !s108 1791105447.000000
+Z10 !s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb
+R2
+DXx4 work 19 lab_class_6_sv_unit 0 22 FDICB@kkV^mf3GffCJVNk3
+R3
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 7kQjMSb?h3QP<TlUD>EiT0
+I7^fZEIa90abhAU]OM8SY82
+!s105 lab_class_6_sv_unit
+S1
+R4
+R5
+R6
+R7
+!i122 7
+L0 79 23
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R1
