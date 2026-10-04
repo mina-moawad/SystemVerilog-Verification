@@ -4,6 +4,12 @@ z2
 Z0 !s99 nomlopt
 R0
 R0
+R0
+R0
+R0
+R0
+R0
+R0
 !s11f MIXED_VERSIONS
 13
 !s112 1.1
@@ -11,20 +17,94 @@ R0
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5
+Z1 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 5
 T_opt
 !s110 1791105468
 V8j6kTP2g^[zlSDd<X2G:L2
 04 2 4 work tb fast 0
 =1-f430b9544e86-6ac219bb-24a-2c34
-!s124 OEM100
-o-quiet -auto_acc_if_foreign -work work
-Z1 tCvgOpt 0
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
 n@_opt
-OL;O;2021.1;73
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1791113640
+V`P7<5CXDWDDVGYTMOK1]]1
+04 6 4 work tb_top fast 0
+=1-f430b9544e86-6ac239a7-37d-1f68
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1791115594
+V2=48<>SfSk47L?bSWbLmb2
+04 12 4 work tb_Singleton fast 0
+=1-f430b9544e86-6ac24149-22e-2cf4
+R2
+R3
+R4
+n@_opt2
+R5
+Xlab2_Q1_sv_unit
+Z6 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z7 !s110 1791115120
+VzPD4lVJVF1lJk<]ied@5@0
+r1
+!s85 0
+!i10b 1
+!s100 PljCEFI6ZZbAYGbMzzEbH1
+IzPD4lVJVF1lJk<]ied@5@0
+!i103 1
+S1
+Z8 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6
+Z9 w1791113629
+Z10 8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q1.sv
+Z11 FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q1.sv
+!i122 22
+Z12 L0 1 0
+Z13 OL;L;2021.1;73
+31
+Z14 !s108 1791115120.000000
+Z15 !s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q1.sv|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q1.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+nlab2_@q1_sv_unit
+Xlab2_Q4_sv_unit
+R6
+Z18 !s110 1791115588
+VmM5b^kTafHCe:OjIdSc`N0
+r1
+!s85 0
+!i10b 1
+!s100 M[PI0n@@RLK5BVl4IFGdz1
+ImM5b^kTafHCe:OjIdSc`N0
+!i103 1
+S1
+R8
+Z19 w1791115581
+Z20 8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q4.sv
+Z21 FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q4.sv
+!i122 29
+R12
+R13
+31
+Z22 !s108 1791115588.000000
+Z23 !s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q4.sv|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab2_Q4.sv|
+!i113 0
+R17
+R4
+nlab2_@q4_sv_unit
 Xlab_class_6_sv_unit
-Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z3 !s110 1791105448
+R6
+R7
 VFDICB@kkV^mf3GffCJVNk3
 r1
 !s85 0
@@ -33,25 +113,25 @@ r1
 IFDICB@kkV^mf3GffCJVNk3
 !i103 1
 S1
-Z4 dC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6
-Z5 w1791105437
-Z6 8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
-Z7 FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
-!i122 7
-L0 1 0
-Z8 OL;L;2021.1;73
+R8
+Z25 w1791105437
+Z26 8C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
+Z27 FC:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv
+!i122 21
+R12
+R13
 31
-Z9 !s108 1791105447.000000
-Z10 !s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
-Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
+R14
+Z28 !s107 C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
+Z29 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/hp/OneDrive/Desktop/NTI_Mateials/Verification/Class codes/class 6/lab_class_6.sv|
 !i113 0
-Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R1
+R17
+R4
 vtb
-R2
+R6
 DXx4 work 19 lab_class_6_sv_unit 0 22 FDICB@kkV^mf3GffCJVNk3
-R3
-VDg1SIo80bB@j0V0VzS_@n1
+R7
+Z30 VDg1SIo80bB@j0V0VzS_@n1
 r1
 !s85 0
 !i10b 1
@@ -59,17 +139,70 @@ r1
 I7^fZEIa90abhAU]OM8SY82
 !s105 lab_class_6_sv_unit
 S1
-R4
-R5
-R6
-R7
-!i122 7
-L0 79 23
 R8
+R25
+R26
+R27
+!i122 21
+L0 79 23
+R13
 31
+R14
+R28
+R29
+!i113 0
+R17
+R4
+vtb_Singleton
+R6
+DXx4 work 15 lab2_Q4_sv_unit 0 22 mM5b^kTafHCe:OjIdSc`N0
+R18
+R30
+r1
+!s85 0
+!i10b 1
+!s100 oXnUW:hKn<[5ILIAAM8E[2
+IM[RHQNc2jdDVQ?X^LKDfV2
+!s105 lab2_Q4_sv_unit
+S1
+R8
+R19
+R20
+R21
+!i122 29
+L0 18 17
+R13
+31
+R22
+R23
+R24
+!i113 0
+R17
+R4
+ntb_@singleton
+vtb_top
+R6
+DXx4 work 15 lab2_Q1_sv_unit 0 22 zPD4lVJVF1lJk<]ied@5@0
+R7
+R30
+r1
+!s85 0
+!i10b 1
+!s100 zf_:oXH22^O>H3JeQ>LMC2
+I6g[c0QG^Z_IOlM@dPNS1a3
+!s105 lab2_Q1_sv_unit
+S1
+R8
 R9
 R10
 R11
+!i122 22
+L0 25 26
+R13
+31
+R14
+R15
+R16
 !i113 0
-R12
-R1
+R17
+R4
